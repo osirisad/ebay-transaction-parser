@@ -1,6 +1,8 @@
 # ebay-transaction-parser
 A python script that will import orders, shipping costs, fees, and display it nicely in a master report for tracking purposes
 
+![alt text](https://github.com/osirisad/ebay-transaction-parser/blob/master/sample.png?raw=true)
+
 ## Installation
 
 Download the excel file template and python script, ensure python script is in the same directory as excel file before running. You should have an import folder and archive folder in the same directory.
