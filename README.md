@@ -1,7 +1,7 @@
 # ebay-transaction-parser
 A python script that will import orders, shipping costs, fees, and display it nicely in a master report for tracking purposes
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](sd.fleishman@gmail.com)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](SX6XF7L3H8GS4)
 
 
 ## Installation
