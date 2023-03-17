@@ -9,7 +9,7 @@ Download the excel file template and python script, ensure python script is in t
 
 ## Usage
 
-Download transaction reports from ebay and save them to the import folder.  This script can handle reports from multiple ebay accounts.
+Download transaction reports from [ebay](https://www.ebay.com/sh/fin/report) and save them to the import folder.  This script can handle reports from multiple ebay accounts.
 
 ## Donate
 
