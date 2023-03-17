@@ -3,7 +3,7 @@ A python script that will import orders, shipping costs, fees, and display it ni
 
 ## Installation
 
-Download the excel file template and python script, ensure python script is in the same directory as excel file before running.
+Download the excel file template and python script, ensure python script is in the same directory as excel file before running. You should have an import folder and archive folder in the same directory.
 
 ## Usage
 
