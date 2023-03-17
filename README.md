@@ -1,5 +1,5 @@
 # ebay-transaction-parser
-A python script that will import orders, shipping costs, fees, and display it nicely in a master report for tracking purposes
+A python script that will take an eBay transaction report and import orders, shipping costs, fees, and display it nicely in a master report for tracking purposes.
 
 ![alt text](https://github.com/osirisad/ebay-transaction-parser/blob/master/sample.png?raw=true)
 
