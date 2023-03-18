@@ -7,9 +7,17 @@ When Easy Auction Tracker decided to close shop I looked around for an alternati
 
 Download the excel file template and python script, ensure python script is in the same directory as excel file before running. You should have an import folder and archive folder in the same directory.
 
+Before running, make sure you you install python (I'm using version 3.11.2 - https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe)
+
+After you install python load module openxyl by opening command prompt and typing: 
+pip install openpyxl
+
 ## Usage
 
 Download transaction reports from [ebay](https://www.ebay.com/sh/fin/report) and save them to the import folder.  This script can handle reports from multiple ebay accounts.
+
+Once you're ready to run the report open a command prompt navigate to the folder where the python script is saved then type the following:
+python ebay_report.py or double click the run_reports.bat file that's here in the repo.
 
 ## Donate
 
