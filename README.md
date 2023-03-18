@@ -13,7 +13,6 @@ After you install python, install module openxyl by opening command prompt and t
 ```
 pip install openpyxl
 ```
-
 ## Usage
 
 Download transaction reports from [https://www.ebay.com/sh/fin/report](https://www.ebay.com/sh/fin/report) and save them to the import folder.  This script can handle reports from multiple ebay accounts.
