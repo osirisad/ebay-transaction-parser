@@ -9,7 +9,7 @@ Download the excel file template and python script, ensure python script is in t
 
 Before running, make sure you you install python (I'm using version 3.11.2 - https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe)
 
-After you install python load module openxyl by opening command prompt and typing: 
+After you install python, install module openxyl by opening command prompt and typing: 
 ```
 pip install openpyxl
 ```
