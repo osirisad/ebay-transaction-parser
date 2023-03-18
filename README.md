@@ -1,6 +1,6 @@
 ## Donate
 
-If this project helped you and you'd like to donate:
+If this project helped you and you'd like buy me a beer:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=SX6XF7L3H8GS4)
 
