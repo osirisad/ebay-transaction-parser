@@ -14,7 +14,7 @@ pip install openpyxl
 
 ## Usage
 
-Download transaction reports from [ebay](https://www.ebay.com/sh/fin/report) and save them to the import folder.  This script can handle reports from multiple ebay accounts.
+Download transaction reports from [https://www.ebay.com/sh/fin/report](https://www.ebay.com/sh/fin/report) and save them to the import folder.  This script can handle reports from multiple ebay accounts.
 
 Once you're ready to run the report open a command prompt navigate to the folder where the python script is saved then type the following:
 python ebay_report.py or double click the run_reports.bat file that's here in the repo.
