@@ -19,6 +19,8 @@ Download transaction reports from [https://www.ebay.com/sh/fin/report](https://w
 Once you're ready to run the report open a command prompt navigate to the folder where the python script is saved then type the following:
 python ebay_report.py or double click the run_reports.bat file that's here in the repo.
 
+I've been making a backup of the master file before I update it just in case, you probably sould too! Maybe I will have the script do that in the future, for now make sure you back it up!
+
 ## Donate
 
 If this project helped you and you'd like to donate:
