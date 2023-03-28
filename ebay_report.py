@@ -69,21 +69,21 @@ for filename in os.listdir(import_folder):
                 #row_index = max((b.row for b in sheet['B'] if b.value is not None)) 
                 
                 #convert numbers                                
-                purchase_price = float(purchase_price)
-                qty = float(qty)
-                shipping_charged = float(shipping_charged)
+                purchase_price = float(purchase_price.replace(',', ''))
+                qty = float(qty.replace(',', ''))
+                shipping_charged = float(shipping_charged.replace(',', ''))
                 
                 if actual_shipping_cost != '':
                     actual_shipping_cost = float(actual_shipping_cost)
                 else:
-                    actual_shipping_cost = 0
+                    actual_shipping_cost = 0.0
                 
                 final_value_fee = float(final_value_fee)
                 
                 date_sold = datetime.strptime(date_sold, "%b %d, %Y")
                 
                 if international_fee != '--':
-                    international_fee = float(international_fee)
+                    international_fee = float(international_fee.replace(',', ''))
                 else:
                     international_fee = 0.0
                     
